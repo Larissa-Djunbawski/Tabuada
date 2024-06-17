@@ -1,4 +1,4 @@
-console.log("  Digite um número para gerar sua tabuada ")
+console.log("  Digite um número para gerar sua tabuada: ")
 let entrada_usuario = null;
 let tabuada = [];
 
